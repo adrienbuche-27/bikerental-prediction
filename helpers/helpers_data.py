@@ -1,4 +1,4 @@
-cities = ["San Jose", "Redwood City", "Mountain View", "Palo Alto", "San Francisco"]
+cities = ["Mountain View", "Palo Alto", "Redwood City", "San Francisco", "San Jose"]
 
 colors = {'San Jose' : '#1f77b4',
           'Redwood City' : '#ff7f0e',
